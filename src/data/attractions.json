@@ -1,0 +1,125 @@
+[
+    {
+    "id": 1,
+    "name" : "Colloseum", 
+    "city" : "Rome", 
+    "country" : "Italy", 
+    "entry_price" : "20$", 
+    "address": "Pizza del Colosseo , 1, 00184 Roma RM, Italy", 
+    "Opening_time" : "9: 00 AM", 
+    "closing_time" : "7: 00 AM", 
+    "categories" : ["most_visited", "historical"], 
+    "images" : [
+       " https://www.petitfute.co.uk/medias/mag/12133/835/8896-les-10-parcs-d-attraction.jpg",
+       " https://www.petitfute.co.uk/medias/mag/12133/835/8896-les-10-parcs-d-attraction.jpg",
+       " https://www.petitfute.co.uk/medias/mag/12133/835/8896-les-10-parcs-d-attraction.jpg",
+       " https://www.petitfute.co.uk/medias/mag/12133/835/8896-les-10-parcs-d-attraction.jpg",
+       " https://www.petitfute.co.uk/medias/mag/12133/835/8896-les-10-parcs-d-attraction.jpg",
+       " https://www.petitfute.co.uk/medias/mag/12133/835/8896-les-10-parcs-d-attraction.jpg"
+    ], 
+    "coordinates": {
+        "lat" : "41.8902",
+        "lon" : "12.4922"
+    }
+},
+{
+    "id": 2,
+    "name": "Eiffel Tower",
+    "city": "Paris",
+    "country": "France",
+    "entry_price": "15€",
+    "address": "Champ de Mars, 5 Avenue Anatole France, 75007 Paris, France",
+    "opening_time": "10:00 AM",
+    "closing_time": "6:00 PM",
+    "categories": ["most_visited", "architectural"],
+    "images": [
+        " https://www.petitfute.co.uk/medias/mag/12133/835/8896-les-10-parcs-d-attraction.jpg",
+        " https://www.petitfute.co.uk/medias/mag/12133/835/8896-les-10-parcs-d-attraction.jpg",
+        " https://www.petitfute.co.uk/medias/mag/12133/835/8896-les-10-parcs-d-attraction.jpg"
+    ],
+    "coordinates": {
+        "lat": "48.8584",
+        "lon": "2.2943"
+    }
+},
+{
+    "id": 3,
+    "name": "Statue of Liberty",
+    "city": "New York",
+    "country": "United States",
+    "entry_price": "$25",
+    "address": "Liberty Island, New York, NY 10004, United States",
+    "opening_time": "8:00 AM",
+    "closing_time": "5:00 PM",
+    "categories": ["most_visited", "monument"],
+    "images": [
+        " https://www.petitfute.co.uk/medias/mag/12133/835/8896-les-10-parcs-d-attraction.jpg",
+        " https://www.petitfute.co.uk/medias/mag/12133/835/8896-les-10-parcs-d-attraction.jpg",
+        " https://www.petitfute.co.uk/medias/mag/12133/835/8896-les-10-parcs-d-attraction.jpg"
+    ],
+    "coordinates": {
+        "lat": "40.6892",
+        "lon": "-74.0445"
+    }
+},
+{
+    "id": 4,
+    "name": "Great Wall of China",
+    "city": "Beijing",
+    "country": "China",
+    "entry_price": "¥50",
+    "address": "Badaling, Yanqing, Beijing, China",
+    "opening_time": "7:30 AM",
+    "closing_time": "5:30 PM",
+    "categories": ["most_visited", "historical"],
+    "images": [
+        " https://www.petitfute.co.uk/medias/mag/12133/835/8896-les-10-parcs-d-attraction.jpg",
+        " https://www.petitfute.co.uk/medias/mag/12133/835/8896-les-10-parcs-d-attraction.jpg",
+        " https://www.petitfute.co.uk/medias/mag/12133/835/8896-les-10-parcs-d-attraction.jpg"
+    ],
+    "coordinates": {
+        "lat": "40.4319",
+        "lon": "116.5704"
+    }
+},
+{
+    "id": 5,
+    "name": "Sydney Opera House",
+    "city": "Sydney",
+    "country": "Australia",
+    "entry_price": "AU$30",
+    "address": "Bennelong Point, Sydney NSW 2000, Australia",
+    "opening_time": "9:00 AM",
+    "closing_time": "6:00 PM",
+    "categories": ["most_visited", "trending"],
+    "images": [
+        " https://www.petitfute.co.uk/medias/mag/12133/835/8896-les-10-parcs-d-attraction.jpg",
+        " https://www.petitfute.co.uk/medias/mag/12133/835/8896-les-10-parcs-d-attraction.jpg",
+        " https://www.petitfute.co.uk/medias/mag/12133/835/8896-les-10-parcs-d-attraction.jpg"
+    ],
+    "coordinates": {
+        "lat": "-33.8568",
+        "lon": "151.2153"
+    }
+},
+{
+    "id": 6,
+    "name": "Machu Picchu",
+    "city": "Aguas Calientes",
+    "country": "Peru",
+    "entry_price": "S/152",
+    "address": "Aguas Calientes, 08681, Peru",
+    "opening_time": "6:00 AM",
+    "closing_time": "5:00 PM",
+    "categories": ["most_visited", "recommended"],
+    "images": [
+        " https://www.petitfute.co.uk/medias/mag/12133/835/8896-les-10-parcs-d-attraction.jpg",
+        " https://www.petitfute.co.uk/medias/mag/12133/835/8896-les-10-parcs-d-attraction.jpg",
+        " https://www.petitfute.co.uk/medias/mag/12133/835/8896-les-10-parcs-d-attraction.jpg"
+    ],
+    "coordinates": {
+        "lat": "-13.1631",
+        "lon": "-72.5450"
+    }
+}
+]
